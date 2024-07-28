@@ -12,3 +12,7 @@ The fine-grained dependency inside a non-overlapping window and coarse-grained d
 
 Two high-resolution (3m) RCM CP SAR scenes are used to evaluate the performance of the proposed method and compare it to other state-of-the-art deep learning methods. The results show that the proposed approach achieves an overall accuracy of 93.63\% which was 4.83\% higher than the best comparable method, demonstrating the effectiveness of the proposed approach for land cover classification from RCM CP SAR images.
 
+# PFC Attention Paper
+
+Please read PFC_Attention_paper.pdf for details of the proposed method.
+
